@@ -1,0 +1,6 @@
+@Divvy_HostAddress = http://localhost:5159
+
+GET {{Divvy_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
